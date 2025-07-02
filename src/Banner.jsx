@@ -11,9 +11,7 @@ function Banner() {
         />
         Get the most out of your app with real-time updates and analytics{" "}
         <span className="text-muted-foreground">·</span>{" "}
-        <a href="#" className="font-medium underline hover:no-underline">
-          Signup
-        </a>
+        <a href="#" className="font-medium underline hover:no-underline"></a>
       </p>
     </div>
   );
